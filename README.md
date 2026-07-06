@@ -1,2 +1,2 @@
-# My-Project-contract
+# contract-management
 Contract-management-system
